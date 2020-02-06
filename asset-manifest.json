@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Derrick-Aung/portfolio-design-react/static/css/main.5d3de497.chunk.css",
-    "main.js": "/Derrick-Aung/portfolio-design-react/static/js/main.72362da9.chunk.js",
-    "main.js.map": "/Derrick-Aung/portfolio-design-react/static/js/main.72362da9.chunk.js.map",
-    "runtime-main.js": "/Derrick-Aung/portfolio-design-react/static/js/runtime-main.ca5ed57c.js",
-    "runtime-main.js.map": "/Derrick-Aung/portfolio-design-react/static/js/runtime-main.ca5ed57c.js.map",
-    "static/js/2.1974c4ad.chunk.js": "/Derrick-Aung/portfolio-design-react/static/js/2.1974c4ad.chunk.js",
-    "static/js/2.1974c4ad.chunk.js.map": "/Derrick-Aung/portfolio-design-react/static/js/2.1974c4ad.chunk.js.map",
-    "index.html": "/Derrick-Aung/portfolio-design-react/index.html",
-    "precache-manifest.5d09c19fc115817cd9f023bc43f83fdc.js": "/Derrick-Aung/portfolio-design-react/precache-manifest.5d09c19fc115817cd9f023bc43f83fdc.js",
-    "service-worker.js": "/Derrick-Aung/portfolio-design-react/service-worker.js",
-    "static/css/main.5d3de497.chunk.css.map": "/Derrick-Aung/portfolio-design-react/static/css/main.5d3de497.chunk.css.map",
-    "static/js/2.1974c4ad.chunk.js.LICENSE.txt": "/Derrick-Aung/portfolio-design-react/static/js/2.1974c4ad.chunk.js.LICENSE.txt",
-    "static/media/arduino_logo.png": "/Derrick-Aung/portfolio-design-react/static/media/arduino_logo.5a42df19.png",
-    "static/media/c_logo.png": "/Derrick-Aung/portfolio-design-react/static/media/c_logo.e79e5dbd.png",
-    "static/media/heartrate_sensor.jpg": "/Derrick-Aung/portfolio-design-react/static/media/heartrate_sensor.13997390.jpg",
-    "static/media/matlab_logo.png": "/Derrick-Aung/portfolio-design-react/static/media/matlab_logo.cf286322.png"
+    "main.css": "/portfolio-design-react/static/css/main.5d3de497.chunk.css",
+    "main.js": "/portfolio-design-react/static/js/main.ae4673a0.chunk.js",
+    "main.js.map": "/portfolio-design-react/static/js/main.ae4673a0.chunk.js.map",
+    "runtime-main.js": "/portfolio-design-react/static/js/runtime-main.179c9062.js",
+    "runtime-main.js.map": "/portfolio-design-react/static/js/runtime-main.179c9062.js.map",
+    "static/js/2.1974c4ad.chunk.js": "/portfolio-design-react/static/js/2.1974c4ad.chunk.js",
+    "static/js/2.1974c4ad.chunk.js.map": "/portfolio-design-react/static/js/2.1974c4ad.chunk.js.map",
+    "index.html": "/portfolio-design-react/index.html",
+    "precache-manifest.da1c768a7ebf7354acead5e4da437628.js": "/portfolio-design-react/precache-manifest.da1c768a7ebf7354acead5e4da437628.js",
+    "service-worker.js": "/portfolio-design-react/service-worker.js",
+    "static/css/main.5d3de497.chunk.css.map": "/portfolio-design-react/static/css/main.5d3de497.chunk.css.map",
+    "static/js/2.1974c4ad.chunk.js.LICENSE.txt": "/portfolio-design-react/static/js/2.1974c4ad.chunk.js.LICENSE.txt",
+    "static/media/arduino_logo.png": "/portfolio-design-react/static/media/arduino_logo.5a42df19.png",
+    "static/media/c_logo.png": "/portfolio-design-react/static/media/c_logo.e79e5dbd.png",
+    "static/media/heartrate_sensor.jpg": "/portfolio-design-react/static/media/heartrate_sensor.13997390.jpg",
+    "static/media/matlab_logo.png": "/portfolio-design-react/static/media/matlab_logo.cf286322.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca5ed57c.js",
+    "static/js/runtime-main.179c9062.js",
     "static/js/2.1974c4ad.chunk.js",
     "static/css/main.5d3de497.chunk.css",
-    "static/js/main.72362da9.chunk.js"
+    "static/js/main.ae4673a0.chunk.js"
   ]
 }
